@@ -1,4 +1,5 @@
 # Optimizing the Path of Ants Seeking Wheat Using Genetic  Algorithms using Python
+![Project Logo](https://github.com/SBJ2000/Optimizing-the-Path-of-Ants-Seeking-Wheat-Using-Genetic--Algorithms-using-Python/blob/main/Images/Logo.jpg)
 
 ## Introduction
 
