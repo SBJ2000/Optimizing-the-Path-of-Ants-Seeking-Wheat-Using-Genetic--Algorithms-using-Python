@@ -76,6 +76,9 @@ The results of this project are demonstrated in a short video, which can be acce
 
 Significant improvement in ant performance was observed over generations, with the general fitness of the population increasing, indicating successful adaptation to the problem's constraints.
 
+## Additional Information
+
+For additionnal information especially for the code you can read the report in the report folder.
 
 
 ## Conclusion
